@@ -1,0 +1,72 @@
+h1{
+    font-family: 'Luxurious Roman', cursive;
+}
+h1{
+    font-size: 50px;
+}
+
+.orange-color{
+    color: orange;
+}
+.flexible-container{display: flex;
+    padding-left: 5%;
+
+    margin-bottom: 150px;
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 70%;
+    
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(red, tomato);
+    color: white;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+h2{
+    font-size: 40px;
+    
+}
+.mission-header{
+    text-align: center;
+}
+.mission img{
+    width: 90%;
+}
+.mission{
+    background-color: paleturquoise;
+    border-radius: 20px;
+    padding: 10px;
+}
+.vission img{
+    width: 100%;
+}
+.vission{
+    background-color: pink;
+    border-radius: 20px;
+    padding: 10px;
+    margin-left: 20px;
+}
+.goals img{
+    width: 90%;
+}
+.goals{
+    background-color: tan;
+    border-radius: 20px;
+    padding: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+footer{
+    background-color: lightslategray;
+}
+#first-title{
+    border-left: 10px solid red;
+    
+    border-image-slice: 1;
+}
