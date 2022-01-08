@@ -63,7 +63,10 @@ h2{
     margin-right: 20px;
 }
 footer{
-    background-color: lightslategray;
+    background-color: black;
+}
+.mission-color{
+    color: white;
 }
 #first-title{
     border-left: 10px solid red;
